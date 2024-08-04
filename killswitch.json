@@ -1,4 +1,4 @@
 {
   "kill": false
-  "downloader": false
+  "downloader": true
 }
