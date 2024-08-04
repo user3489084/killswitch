@@ -1,7 +1,5 @@
 {
-  "kill": false
-}
-{
+  "kill": false,
   "downloader": true
 }
 
