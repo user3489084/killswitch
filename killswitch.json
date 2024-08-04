@@ -1,3 +1,4 @@
 {
-  "kill": true
+  "kill": false
+  "malware": false
 }
